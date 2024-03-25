@@ -5,6 +5,8 @@ All classes are location in ./Classes
 -- report.py
 -- unigram_model.py
 
+All processed Data is found in ./Data
+
 Answers to all questions can be found by using report.py
 - each question in report.py has a method that answers the questions, labeled from 1-7
 - the answers will be outputted to Report./Questions.txt
