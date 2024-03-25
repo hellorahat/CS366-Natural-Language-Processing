@@ -1,0 +1,7 @@
+Question 1: 41738 word types.
+Question 2: 2468210 word tokens.
+Question 3: 1.6251354279523293% of word tokens and 3.6057692307692304% of word types from the test corpus did not occur in the training corpus.
+Question 4: Percentage of unseen bigrams in the test corpus: 21.63235825207656%
+Question 5: Unigram log probability = -533.7223611448524,  Bigram log probability = 3.768272692554472,   Bigram Add One Smoothing Log Probability = 170.02020402847143+
+Question 6: Calculating perplexity for sample sentence: Unigram perplexity = 1.0000252021080083,  Bigram perplexity = 0.7214472975873538,   Bigram Add One Smoothing perplexity = 4.002693535557711e-07+
+Question 7: Calculating perplexity for test corpus: Unigram perplexity = 1.0078845499699716,  Bigram perplexity = 0.9985647969927745,   Bigram Add One Smoothing perplexity = 4.009785865519081e-07+
